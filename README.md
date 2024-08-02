@@ -5,15 +5,15 @@ Throughout this program, I've learned data visualization and exploratory data an
 ---
 ## Projects:
 
-### [Project 1](Project1-FoodHub.ipynb)
+### [Project 1 - Data Visualization](Project1-FoodHub.ipynb)
 - Description
-### [Project 2](Project2-ENewsExpress.ipynb)
+### [Project 2 - Business Statistics](Project2-ENewsExpress.ipynb)
 - Description
-### [Project 3](Project3-ReCell.ipynb)
+### [Project 3 - Supervised Learning (Regression)](Project3-ReCell.ipynb)
 - Description
-### [Project 4](Project4-INNHotels.ipynb)
+### [Project 4 - Supervised Learning (Classification)](Project4-INNHotels.ipynb)
 - Description
-### [Project 5](Project5-EasyVisa.ipynb)
+### [Project 5 - Ensemble Techniques](Project5-EasyVisa.ipynb)
 - Description
-### [Project 6](Project6-ReneWind.ipynb)
+### [Project 6 - Model Tuning](Project6-ReneWind.ipynb)
 - Description
