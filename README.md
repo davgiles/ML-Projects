@@ -3,7 +3,7 @@
 ---
 Throughout this program, I've learned data visualization and exploratory data analysis techniques through the Seaborn and Matplotlib libraries, statistical functions with the SciPy.stats library, building supervised learning models, handling imbalanced data, and hyperparameter tuning with the Imbalanced-Learn, Scikit-Learn, and XGBoost libraries.
 
-Profile: (https://eportfolio.mygreatlearning.com/david-giles)
+Profile: https://eportfolio.mygreatlearning.com/david-giles
 ---
 ## Projects:
 
